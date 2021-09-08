@@ -1,0 +1,2 @@
+# C_ile_stack_yapisi_kullanilarak_verilen_filmleri_imdb_puanina_gore_siralayan_consol_uygulamasi
+C ile stack yapısı kullanılarak verilen filmleri imdb puanına göre sıralayan consol uygulaması
